@@ -47,7 +47,7 @@ public class addCashier extends JPanel {
 		add(userField);
 		userField.setColumns(10);
 		
-		btnAddCashier = new JButton("Add Cashier");
+		btnAddCashier = new JButton("Add Cashiers");
 		btnAddCashier.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				user=userField.getText().trim();
