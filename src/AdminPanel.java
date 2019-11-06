@@ -36,7 +36,7 @@ public class AdminPanel extends JFrame implements ActionListener {
 	 */
 	public AdminPanel() {
 		setIconImage(Toolkit.getDefaultToolkit().getImage("F:\\Working Directory\\fianl project with sql\\Bill\\logo.png"));
-		setTitle("ADMIN PANELS");
+		setTitle("Admin Panel");
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 840, 619);
 		
