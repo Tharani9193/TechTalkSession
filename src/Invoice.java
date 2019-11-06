@@ -35,7 +35,7 @@ public class Invoice extends JPanel {
 	JLabel gtotal ;
 
 	/**
-	 * Create the panel.
+	 * Create the panel entity.
 	 */
 	public Invoice() {
 		setLayout(null);
