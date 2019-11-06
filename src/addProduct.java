@@ -22,7 +22,7 @@ public class addProduct extends JPanel {
 	JComboBox<String> company;
 	String id,detail,comp;
 	int quan;
-	String err="Enter product id and quantity?";
+	String err="Enter product id and quantity please";
 	/**
 	 * Create the panel.
 	 */
