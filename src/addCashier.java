@@ -32,7 +32,7 @@ public class addCashier extends JPanel {
 		lblAddCashier.setFont(new Font("Tahoma", Font.PLAIN, 17));
 		add(lblAddCashier);
 		
-		JLabel lblUserName = new JLabel("User name");
+		JLabel lblUserName = new JLabel("Please give a User name");
 		lblUserName.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		lblUserName.setBounds(246, 104, 124, 21);
 		add(lblUserName);
