@@ -16,7 +16,7 @@ public class deleteProduct extends JPanel {
 	JTextField idField;
 	JButton btnDeleteProduct;
 	private JLabel error;
-	String id,err="Enter product id";
+	String id,err="Please enter product id!";
 	/**
 	 * Create the panel.
 	 */
