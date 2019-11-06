@@ -19,7 +19,7 @@ public class deleteCashier extends JPanel {
 	JButton btnDeleteCashier;
 	private JPasswordField passwordField;
 	private JLabel error;
-	String user,pass,err="Please Enter username and password.";
+	String user,pass,err="Please username and password.";
 	/**
 	 * Create the panel.
 	 */
