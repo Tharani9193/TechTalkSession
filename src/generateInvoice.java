@@ -14,7 +14,6 @@ import javax.swing.JMenuItem;
 import javax.swing.JMenuBar;
 import java.awt.Toolkit;
 
-//generate inv
 public class generateInvoice extends JFrame implements ActionListener{
 
 	private JPanel contentPane;
