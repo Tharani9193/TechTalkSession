@@ -11,6 +11,7 @@ import java.awt.Color;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+//search cashier
 public class searchCashier extends JPanel {
 	
 	JTextField idField;
