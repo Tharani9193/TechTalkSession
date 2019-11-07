@@ -13,6 +13,7 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
+//last commit
 public class Sale extends JPanel {
 	private JTable sale;
 	private JTextField date;
