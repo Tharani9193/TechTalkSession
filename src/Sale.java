@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
-//last commit
+//last commit sale entity
 public class Sale extends JPanel {
 	private JTable sale;
 	private JTextField date;

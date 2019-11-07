@@ -23,7 +23,7 @@ import javax.swing.JComboBox;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import java.awt.Color;
-
+//stock entity
 public class showStock extends JPanel {
 	private JTable stockTable;
 	JComboBox<String> comp;
