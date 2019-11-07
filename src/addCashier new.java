@@ -13,7 +13,7 @@ import java.awt.Color;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-//comment added
+//comment added modified
 public class addCashier extends JPanel {
 	
 	JTextField userField;
