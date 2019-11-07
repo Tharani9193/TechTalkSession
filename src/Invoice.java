@@ -35,12 +35,12 @@ public class Invoice extends JPanel {
 	JLabel gtotal ;
 
 	/**
-	 * Create the panel.
+	 * Create the panel entity.
 	 */
 	public Invoice() {
 		setLayout(null);
 		
-		JLabel lblCustomer = new JLabel("Customer");
+		JLabel lblCustomer = new JLabel("Customerss");
 		lblCustomer.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		lblCustomer.setBounds(88, 59, 97, 23);
 		add(lblCustomer);
