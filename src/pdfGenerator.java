@@ -24,6 +24,7 @@ import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
 import com.itextpdf.tool.xml.html.table.Table;
 
+//sample commit
 public class pdfGenerator {
 
 	public static void makePdf(Object[] data,long total,int inv)
@@ -47,7 +48,7 @@ public class pdfGenerator {
 	        Paragraph p2= new Paragraph("Main Market Gulberg II Lahore");
 	        Paragraph p3= new Paragraph("042-35712296\n\n\n");
 	        Paragraph p4= new Paragraph("\n\nGrand Total: "+total,f1);
-	        Paragraph p5= new Paragraph("\nThank you for visiting us…!!\nReturn/Exchange not possible with-out bill.");
+	        Paragraph p5= new Paragraph("\nThank you for visiting usï¿½!!\nReturn/Exchange not possible with-out bill.");
 	        
 	         p1.setAlignment(Element.ALIGN_CENTER);
 	         p3.setAlignment(Element.ALIGN_CENTER);
